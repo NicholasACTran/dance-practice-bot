@@ -2,7 +2,6 @@ require('dotenv').config(); //initialize dotenv
 
 const { 
     Client, 
-    Intents, 
     ThreadAutoArchiveDuration,
 } = require('discord.js');
 const cron = require('cron');
@@ -12,7 +11,7 @@ const Cache = require('./lib/cache.js');
 const jazzCommands = require('./lib/jazzCommands');
 
 const token = process.env.CLIENT_TOKEN;
-const channelId = process.env.CHANNEL;
+const channelId = process.env.PRACTICECHANNEL;
 
 let cache;
 
@@ -41,6 +40,7 @@ client.on('ready', () => {
   });
 
   scheduledWeeklyThread.start();
+  console.log(`Scheduled Weekly Thread: ${scheduledWeeklyThread}`);
 });
 
 client.on('interactionCreate', async interaction => {
