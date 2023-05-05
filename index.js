@@ -11,7 +11,7 @@ const Cache = require('./lib/cache.js');
 const jazzCommands = require('./lib/jazzCommands');
 
 const token = process.env.CLIENT_TOKEN;
-const channelId = process.env.PRACTICECHANNEL;
+const channelId = process.env.TESTCHANNEL;
 
 let cache;
 
@@ -26,7 +26,7 @@ client.on('ready', () => {
 
   // Cron job for 20:00 every Wednesday
   // Creates thread in practice channel
-  const scheduledWeeklyThread = new cron.CronJob('11 16 * * FRI', async () => {
+  const scheduledWeeklyThread = new cron.CronJob('13 20 * * FRI', async () => {
       const channel = await client.channels.fetch(channelId);
       const date = moment().format('YYYY-MM-DD');
       
@@ -40,7 +40,7 @@ client.on('ready', () => {
   });
 
   scheduledWeeklyThread.start();
-  console.log(`Scheduled Weekly Thread: ${scheduledWeeklyThread}`);
+  console.log(`Scheduled Weekly Thread: ${JSON.stringify(scheduledWeeklyThread)}`);
 });
 
 client.on('interactionCreate', async interaction => {
