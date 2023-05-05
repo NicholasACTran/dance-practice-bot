@@ -26,7 +26,7 @@ client.on('ready', () => {
 
   // Cron job for 20:00 every Wednesday
   // Creates thread in practice channel
-  const scheduledWeeklyThread = new cron.CronJob('14 20 * * FRI', async () => {
+  const scheduledWeeklyThread = new cron.CronJob('00 20 * * WED', async () => {
       const channel = await client.channels.fetch(channelId);
       const date = moment().format('YYYY-MM-DD');
       
