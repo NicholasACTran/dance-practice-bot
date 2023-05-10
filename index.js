@@ -11,7 +11,7 @@ const Cache = require('./lib/cache.js');
 const jazzCommands = require('./lib/jazzCommands');
 
 const token = process.env.CLIENT_TOKEN;
-const channelId = process.env.TESTCHANNEL;
+const channelId = process.env.PRACTICECHANNEL;
 
 let cache;
 
