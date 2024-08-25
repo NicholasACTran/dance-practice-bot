@@ -1,0 +1,804 @@
+{
+	"topics": [
+		{
+			"type": "artist",
+			"artist": "Jo Jones",
+			"songLink": "https://open.spotify.com/track/3vDDmCDkUhNQKbzA10cVO3?si=38a98dd15b984669"
+		},
+		{
+			"type": "song",
+			"song": "I Can’t Believe That You’re in Love with Me",
+			"songLink": "https://open.spotify.com/track/1RcLTd97Z6CGEXuKxyornO?si=6071cd95f6d54fbf"
+		},
+		{
+			"type": "artist",
+			"artist": "Johnny Hodges",
+			"songLink": "https://open.spotify.com/track/6HhOgmm5BNvXIPzLVHDyvk?si=f924a6637ab94677"
+		},
+		{
+			"type": "song",
+			"song": "Bye Bye Blackbird",
+			"songLink": "https://open.spotify.com/track/3ujbZ2FGIoTQG3v07tmV2D?si=f364848a31854450"
+		},
+		{
+			"type": "artist",
+			"artist": "Gordon Webster",
+			"songLink": "https://open.spotify.com/track/72MeOM78gyZHdLk7mHrDOs?si=17cc88614a6244ba"
+		},
+		{
+			"type": "song",
+			"song": "Jeepers Creepers",
+			"songLink": "https://open.spotify.com/track/2B07OKNPRi3Jo2JcoZvjK8?si=4c84c5b2530f4e47"
+		},
+		{
+			"type": "artist",
+			"artist": "Sidney Bechet",
+			"songLink": "https://open.spotify.com/track/4R7A8OOkBiERhVS7fQsrHQ?si=b7a31a2ccb274942"
+		},
+		{
+			"type": "song",
+			"song": "It Don’t Mean a Thing",
+			"songLink": "https://open.spotify.com/track/1Bfj7CCZlkX2nB3dSQFT21?si=225ae30354ee4146"
+		},
+		{
+			"type": "artist",
+			"artist": "Danny Jonokuchi",
+			"songLink": "https://the8bitbigband.bandcamp.com/track/luigis-mansion-theme-from-luigis-mansion"
+		},
+		{
+			"type": "song",
+			"song": "I’ve Found a New Baby",
+			"songLink": "https://open.spotify.com/track/5BUZrDhMtVpfKKkUm0lJMp?si=78a66ecc7fac4e0e"
+		},
+		{
+			"type": "artist",
+			"artist": "Duke Ellington",
+			"songLink": "https://open.spotify.com/track/6aNnVdpAQu8R0qGq5NMXyZ?si=8e53eb22ecf149ee"
+		},
+		{
+			"type": "song",
+			"song": "Tain’t What You Do",
+			"songLink": "https://open.spotify.com/track/4YPqTMpMVB1PP9OIJ6JgkZ?si=35d2ce597e654059"
+		},
+		{
+			"type": "artist",
+			"artist": "Keenan McKenzie",
+			"songLink": "https://keenanmckenzie.bandcamp.com/track/forged-in-rhythm"
+		},
+		{
+			"type": "song",
+			"song": "When The Saints Go Marching In",
+			"songLink": "https://open.spotify.com/track/5VEIQ7S6AJehhbXAsnT27j?si=d3f622f0e32e4072"
+		},
+		{
+			"type": "artist",
+			"artist": "Fess Williams",
+			"songLink": "https://open.spotify.com/track/6AS6jHHCa4Rd1rR9YSRsPn?si=2162abe0679a414d"
+		},
+		{
+			"type": "song",
+			"song": "Slow Boat to China",
+			"songLink": "https://open.spotify.com/track/2kBmcmvOkwpXX4gIASmHCj?si=78c03e79a5884a4f"
+		},
+		{
+			"type": "artist",
+			"artist": "Lester Young",
+			"songLink": "https://open.spotify.com/track/65VgzACf9ULmJ199flJ9kT?si=922414ebb8cd427b"
+		},
+		{
+			"type": "song",
+			"song": "Rockin’ in Rhythm",
+			"songLink": "https://open.spotify.com/track/6D6qDh4t6ThF1kQENHwvK5?si=41d2571bd1d249ab"
+		},
+		{
+			"type": "artist",
+			"artist": "Count Basie",
+			"songLink": "https://open.spotify.com/track/3a2gyoKxkJscA2ynvLKBWK?si=3fc329a85f9b4917"
+		},
+		{
+			"type": "song",
+			"song": "C-Jam Blues (aka: Duke’s Place)",
+			"songLink": "https://open.spotify.com/track/3afzLA8qkJWGDVSn8OIWph?si=0725a1f3ef54425f"
+		},
+		{
+			"type": "artist",
+			"artist": "Hot Swing Sextet",
+			"songLink": "https://melodinoteproduction.bandcamp.com/track/when-the-quail-come-back-to-san-quentin"
+		},
+		{
+			"type": "song",
+			"song": "Night and Day",
+			"songLink": "https://open.spotify.com/track/5hByDDVyr6pfRAutehCAYa?si=be9f53151b4844e7"
+		},
+		{
+			"type": "artist",
+			"artist": "The Schwings",
+			"songLink": "https://theschwingsband.bandcamp.com/track/nyan-cat"
+		},
+		{
+			"type": "song",
+			"song": "Begin the Beguine",
+			"songLink": "https://open.spotify.com/track/247qGju9dOxF4wcOQsbBiQ?si=801ff09a4de846c7"
+		},
+		{
+			"type": "artist",
+			"artist": "Dizzy Birds",
+			"songLink": "https://syncopationsociety.bandcamp.com/track/st-louis-blues-the-dizzy-birds"
+		},
+		{
+			"type": "song",
+			"song": "Nice Work If You Can Get It",
+			"songLink": "https://open.spotify.com/track/0CslMMe56XfdYTTdl0WxVU?si=baba171ba8f342e2"
+		},
+		{
+			"type": "artist",
+			"artist": "Jonathan Stout",
+			"songLink": "https://jonathanstout.bandcamp.com/track/i-cant-give-you-anything-but-love"
+		},
+		{
+			"type": "song",
+			"song": "All Or Nothing At All",
+			"songLink": "https://open.spotify.com/track/34awem0NGNdHpLkTt3t1vI?si=4d2156bb0dfe4f51"
+		},
+		{
+			"type": "artist",
+			"artist": "Billie Holiday",
+			"songLink": "https://open.spotify.com/track/7c7yHHFdYkqBzS1DG3UIFq?si=542ba84ca88b4435"
+		},
+		{
+			"type": "song",
+			"song": "Almost Like Being In Love",
+			"songLink": "https://open.spotify.com/track/6115ks6fGkf7KYRDAi8lNK?si=1f7e8a2695324521"
+		},
+		{
+			"type": "artist",
+			"artist": "Woody Herman",
+			"songLink": "https://open.spotify.com/track/5OrzALukK0E6xlqFJhFjIB?si=2618d5e331c6440a"
+		},
+		{
+			"type": "song",
+			"song": "Deed I Do",
+			"songLink": "https://open.spotify.com/track/1bqN30E4IEGKj9CarAsOgu?si=36f5b1f75ea3492d"
+		},
+		{
+			"type": "artist",
+			"artist": "Chelsea Reed",
+			"songLink": "https://chelseareedandthefairweatherband.bandcamp.com/track/my-baby-can-dance"
+		},
+		{
+			"type": "song",
+			"song": "On the Sunny Side of the Street",
+			"songLink": "https://open.spotify.com/track/4KGFgjP2Ji1UTHZOGw9fJ3?si=41eb5109a5184448"
+		},
+		{
+			"type": "artist",
+			"artist": "Chick Webb",
+			"songLink": "https://open.spotify.com/track/3kk1VB2lD5lLs5gU5BpU0K?si=baabc3947b3a4f86"
+		},
+		{
+			"type": "song",
+			"song": "They Can’t Take That Away from Me",
+			"songLink": "https://open.spotify.com/track/0frZqwvJUm9jVM7vtZKqf4?si=80a8b510baa84443"
+		},
+		{
+			"type": "artist",
+			"artist": "Amber Rachelle",
+			"songLink": "https://amberrachelleandthesweetpotatoes.bandcamp.com/track/frim-fram-sauce"
+		},
+		{
+			"type": "song",
+			"song": "Dinah",
+			"songLink": "https://open.spotify.com/track/2P1X7MLycJr7BFRuByn53z?si=27ed3f4d21fc419c"
+		},
+		{
+			"type": "artist",
+			"artist": "Michael Gamble",
+			"songLink": "https://michaelgamble.bandcamp.com/track/lesters-riffs"
+		},
+		{
+			"type": "song",
+			"song": "Why Don’t You Do Right",
+			"songLink": "https://open.spotify.com/track/5tNQFDpeAggd6Brw3pIpjP?si=037e73f2fc814b00"
+		},
+		{
+			"type": "artist",
+			"artist": "Ian Hutchinson",
+			"songLink": "https://ianhutchison.bandcamp.com/track/blues-ette"
+		},
+		{
+			"type": "song",
+			"song": "Do Nothing Til You Hear From Me",
+			"songLink": "https://open.spotify.com/track/6gAO16dqYk89tQxFtIwSzB?si=d990cf80246b46a3"
+		},
+		{
+			"type": "artist",
+			"artist": "Django Renhardt",
+			"songLink": "https://open.spotify.com/track/7nU9YLmYVIYQQMWUVpA5Na?si=7c2c2b53223a489f"
+		},
+		{
+			"type": "song",
+			"song": "Flying Home",
+			"songLink": "https://open.spotify.com/track/3Uwm7IrxCbF6tG71dnVDrE?si=ef99e64a85264df8"
+		},
+		{
+			"type": "artist",
+			"artist": "Dinah Washington",
+			"songLink": "https://open.spotify.com/track/0xxLQFG5u7z4XJuWXUoHug?si=a2390c7ad7d74889"
+		},
+		{
+			"type": "song",
+			"song": "When You’re Smiling",
+			"songLink": "https://open.spotify.com/track/61rbcfCY9ldEZYGCzpvfSt?si=d5a6cf59e5a74a79"
+		},
+		{
+			"type": "artist",
+			"artist": "Benny Goodman",
+			"songLink": "https://open.spotify.com/track/3BC8lPm5Zez3FJglg45slG?si=3828bb3c72f844dc"
+		},
+		{
+			"type": "song",
+			"song": "Mack the Knife",
+			"songLink": "https://open.spotify.com/track/7549epm7P9NV1zTMfKBI8m?si=8fba3496a6da434b"
+		},
+		{
+			"type": "artist",
+			"artist": "Jacob Zimmerman",
+			"songLink": "https://jacobrexzimmerman.bandcamp.com/track/swing-to-bop-topsy"
+		},
+		{
+			"type": "song",
+			"song": "Lullaby of Birdland",
+			"songLink": "https://open.spotify.com/track/7jeGzaprMlBrT6oDhQF7NM?si=fb48a555ac9c4780"
+		},
+		{
+			"type": "artist",
+			"artist": "Gordon Au",
+			"songLink": "https://gordonau.bandcamp.com/track/est-eastern-swing-time"
+		},
+		{
+			"type": "song",
+			"song": "What Is This Thing Called Love?",
+			"songLink": "https://open.spotify.com/track/0pnNGwVb0sMuKXGZV4GX3c?si=c876f10065eb454a"
+		},
+		{
+			"type": "artist",
+			"artist": "Candy Jackey Jazz Band",
+			"songLink": "https://candyjacketjazzband.bandcamp.com/track/unstuck-in-time"
+		},
+		{
+			"type": "song",
+			"song": "Exactly Like You",
+			"songLink": "https://open.spotify.com/track/73vKtIcAbIIgagWluGAWDf?si=34bd6aa87cca4e5a"
+		},
+		{
+			"type": "artist",
+			"artist": "Earl Hines",
+			"songLink": "https://www.youtube.com/watch?v=D3g5sMs6jHc"
+		},
+		{
+			"type": "song",
+			"song": "Ain’t She Sweet",
+			"songLink": "https://open.spotify.com/track/0yyZqvsIGyXoMn1SJVD6IV?si=caab387759e84911"
+		},
+		{
+			"type": "artist",
+			"artist": "Naomi Uyama",
+			"songLink": "https://naomisdevils.bandcamp.com/track/wham-re-bop-boom-bam"
+		},
+		{
+			"type": "song",
+			"song": "Three Little Words",
+			"songLink": "https://open.spotify.com/track/6J1oewqsGoNwIyTUv88E7O?si=cfd15afbe5444d31"
+		},
+		{
+			"type": "artist",
+			"artist": "Mint Julep Jazz Band",
+			"songLink": "https://mintjulepjazzband.bandcamp.com/track/betcha-nickel"
+		},
+		{
+			"type": "song",
+			"song": "I Got Rhythm",
+			"songLink": "https://open.spotify.com/track/6DHCSh6ncCiwzmjSXHzjRY?si=82ae1b9652174b2b"
+		},
+		{
+			"type": "artist",
+			"artist": "Jimmie Lunceford",
+			"songLink": "https://open.spotify.com/track/0oJLQFCzPw8TAptdY2X2qj?si=f09157d0ebfd4496"
+		},
+		{
+			"type": "song",
+			"song": "I Let a Song Go Out of My Heart",
+			"songLink": "https://open.spotify.com/track/1r4ouU3uoFsBSKd14Nz0in?si=74646007763e4017"
+		},
+		{
+			"type": "artist",
+			"artist": "Fletcher Henderson",
+			"songLink": "https://open.spotify.com/track/1oQrrIFpRjJpcSdnvtnw8c?si=a830badd72464065"
+		},
+		{
+			"type": "song",
+			"song": "I’m Beginning to See the Light",
+			"songLink": "https://open.spotify.com/track/7JUY9WRzzHgtPNKYypGjd8?si=db672d32d08b40c9"
+		},
+		{
+			"type": "artist",
+			"artist": "Carolina Reapers",
+			"songLink": "https://carolinareapersswing.bandcamp.com/track/esquire-jump-collector"
+		},
+		{
+			"type": "song",
+			"song": "Shiny Stockings",
+			"songLink": "https://open.spotify.com/track/4Pwn87M3DUX1Yk0pIQOmFf?si=90af6a87d1d24bf2"
+		},
+		{
+			"type": "artist",
+			"artist": "Charlie Barnet",
+			"songLink": "https://open.spotify.com/track/3eM0u0OmJyFjbhoXTAuND4?si=2657f7b960e8426e"
+		},
+		{
+			"type": "song",
+			"song": "Don’t Get Around Much Anymore",
+			"songLink": "https://open.spotify.com/track/7danfCadvuTS4R93ImNn1Q?si=fb2ed518c31d4333"
+		},
+		{
+			"type": "artist",
+			"artist": "Harry James",
+			"songLink": "https://open.spotify.com/track/7CbhGYCcgLctocm0pzfsoA?si=7a95d9e8bbe2430d"
+		},
+		{
+			"type": "song",
+			"song": "After You’ve Gone",
+			"songLink": "https://open.spotify.com/track/30y1YKZbQ8rXRx2kl9cHo0?si=8db9981bfc4942da"
+		},
+		{
+			"type": "artist",
+			"artist": "Boilermaker Jazz Band",
+			"songLink": "https://boilermakerjazzband.bandcamp.com/track/zip-a-dee-doo-dah"
+		},
+		{
+			"type": "song",
+			"song": "Stompin’ at the Savoy",
+			"songLink": "https://open.spotify.com/track/2VaOoXFfdlrHyhORSq9H1v?si=1ea21f929568478a"
+		},
+		{
+			"type": "artist",
+			"artist": "Illinois Jacquet",
+			"songLink": "https://open.spotify.com/track/4NJLffUFKtfwEYCIZr9nTy?si=36ae882000ba4961"
+		},
+		{
+			"type": "song",
+			"song": "Flat Foot Floogie",
+			"songLink": "https://open.spotify.com/track/28VbXS4GtCVbOh7l6p1l36?si=19c04a4a25f943f3"
+		},
+		{
+			"type": "artist",
+			"artist": "Emily Asher",
+			"songLink": "https://emilyashersgardenparty.bandcamp.com/track/orys-creole-trombone"
+		},
+		{
+			"type": "song",
+			"song": "I’ve Got The World On A String",
+			"songLink": "https://open.spotify.com/track/4CnZ7hxVuHaSZP3JblTX3w?si=ce7d898a41424789"
+		},
+		{
+			"type": "artist",
+			"artist": "Lucky Millinder",
+			"songLink": "https://open.spotify.com/track/4XppLHRk8RMEVUie4MjvXB?si=be72ada4a6b14ed6"
+		},
+		{
+			"type": "song",
+			"song": "In a Mellotone",
+			"songLink": "https://open.spotify.com/track/7feez8rf9HQrFw93fMLhp9?si=7d547d4e8553446a"
+		},
+		{
+			"type": "artist",
+			"artist": "Meschiya Lake",
+			"songLink": "https://meschiyalake.bandcamp.com/track/i-believe-in-music"
+		},
+		{
+			"type": "song",
+			"song": "Pennies From Heaven",
+			"songLink": "https://open.spotify.com/track/1S6ZZ1sLN5i29aW5g9iIx5?si=4de86559cc904fc6"
+		},
+		{
+			"type": "artist",
+			"artist": "Teddy Wilson",
+			"songLink": "https://open.spotify.com/track/7KVX82WunjLwQ0eot5KH8e?si=a20fff8556f747bb"
+		},
+		{
+			"type": "song",
+			"song": "Sometimes I’m Happy",
+			"songLink": "https://open.spotify.com/track/5iBbMH3RxXSarQ7AwkFgxB?si=4c21e401338b4e6f"
+		},
+		{
+			"type": "artist",
+			"artist": "Charlie Christian",
+			"songLink": "https://open.spotify.com/track/69FPbzFGIzHUb4SEfzeuis?si=6825fe6a3c22460b"
+		},
+		{
+			"type": "song",
+			"song": "Things Ain’t What They Used to Be",
+			"songLink": "https://open.spotify.com/track/7ICZ10j0wDawOKmKX1spqe?si=0c2e3afa563f4143"
+		},
+		{
+			"type": "artist",
+			"artist": "Ella Fitzgerald",
+			"songLink": "https://open.spotify.com/track/5upJzTvKaVXBXpUWTIPwJM?si=e50a8365a85d4ce4"
+		},
+		{
+			"type": "song",
+			"song": "Love Is Here to Stay",
+			"songLink": "https://open.spotify.com/track/1AGglZcECKcyPu6pJWeez0?si=17cdf02c70104ea2"
+		},
+		{
+			"type": "artist",
+			"artist": "Bessie Smith",
+			"songLink": "https://open.spotify.com/track/0VxpwPvCkAXfZkOuvg6zHJ?si=851231c43f734fcb"
+		},
+		{
+			"type": "song",
+			"song": "The Surrey with the Fringe on Top",
+			"songLink": "https://open.spotify.com/track/2GQhILwu4keRmOPV3Mqi3g?si=7906915b5c4d4f17"
+		},
+		{
+			"type": "artist",
+			"artist": "Fats Waller",
+			"songLink": "https://open.spotify.com/track/249guHhQU0VFWprw4DadSh?si=0a97b4afc2924356"
+		},
+		{
+			"type": "song",
+			"song": "Darktown Strutters Ball",
+			"songLink": "https://open.spotify.com/track/5sUL3xcHmH8eSVhxRVFzxl?si=8efbb7467a504624"
+		},
+		{
+			"type": "artist",
+			"artist": "Clifford Brown",
+			"songLink": "https://open.spotify.com/track/1pH0uvTTjAMvCcbp5NEHJk?si=bfb00c0c6e2843ba"
+		},
+		{
+			"type": "song",
+			"song": "Blue Moon",
+			"songLink": "https://open.spotify.com/track/1pZn8AX1WulW8IO338hE5D?si=611f2e7d993b4c76"
+		},
+		{
+			"type": "artist",
+			"artist": "Slim and Slam",
+			"songLink": "https://open.spotify.com/track/5aE1RfiuTE5kU1FqMSnGWY?si=4744d49f6d6e4956"
+		},
+		{
+			"type": "song",
+			"song": "Mean to Me",
+			"songLink": "https://open.spotify.com/track/4R6rf3KbP45JST6Cr3Enry?si=b8f37217ce634db1"
+		},
+		{
+			"type": "artist",
+			"artist": "Jimmy Dorsey & Tommy Dorsey",
+			"songLink": "https://open.spotify.com/track/03vSEsuEJulfo42YDkyqRy?si=ced6aa37a4f54ef5"
+		},
+		{
+			"type": "song",
+			"song": "Perdido",
+			"songLink": "https://open.spotify.com/track/2URhrIo7nnt6VuzzY6Rd4i?si=0b5e026a1c9e4e06"
+		},
+		{
+			"type": "artist",
+			"artist": "Mary Lou Williams",
+			"songLink": "https://open.spotify.com/track/0DbG4eI4jMWyrszRqazjiv?si=fd6590fe52d541f8"
+		},
+		{
+			"type": "song",
+			"song": "Hit That Jive Jack",
+			"songLink": "https://open.spotify.com/track/0JJtJ8t7cEF9vLCQ6gGKoF?si=4303781989384f95"
+		},
+		{
+			"type": "artist",
+			"artist": "Cab Calloway",
+			"songLink": "https://open.spotify.com/track/6NF5P7V3HzNfli1VL1ZN5e?si=30ca2def8be4453e"
+		},
+		{
+			"type": "song",
+			"song": "Blue Skies",
+			"songLink": "https://open.spotify.com/track/7kzag1RHJUYeY8i3KRrQKw?si=1b150929432543a0"
+		},
+		{
+			"type": "artist",
+			"artist": "Dizzy Gillespie",
+			"songLink": "https://open.spotify.com/track/1xXydFs62EqOXFMPizVhn4?si=872cf146b4494f34"
+		},
+		{
+			"type": "song",
+			"song": "Corner Pocket",
+			"songLink": "https://open.spotify.com/track/5QtzZWKK0RODIlUu4U4QYe?si=5bc0ec0d44dd49d7"
+		},
+		{
+			"type": "artist",
+			"artist": "Buddy Johnson",
+			"songLink": "https://open.spotify.com/track/7srQp9dWfcsHwcaAZAFYWE?si=2720dabc50944af9"
+		},
+		{
+			"type": "song",
+			"song": "Ain’t Misbehavin’",
+			"songLink": "https://open.spotify.com/track/5ruNjsKQkm3gUlvJlmtHiC?si=92da1ab0c05a4d8a"
+		},
+		{
+			"type": "artist",
+			"artist": "Jen Hodge",
+			"songLink": "https://jenhodgebass.bandcamp.com/track/hey-lets-drink-a-beer"
+		},
+		{
+			"type": "song",
+			"song": "Just Squeeze Me (But Don’t Tease Me)",
+			"songLink": "https://open.spotify.com/track/3QWC9bsUI7weE7bkeEQz9a?si=83074a46cb0d4688"
+		},
+		{
+			"type": "artist",
+			"artist": "Reverent Juke",
+			"songLink": "https://www.youtube.com/watch?v=mxLX7cgXsYA"
+		},
+		{
+			"type": "song",
+			"song": "Them There Eyes",
+			"songLink": "https://open.spotify.com/track/1mXPwHReNtCunknCCwFvXn?si=f85b0653d5cd4dd8"
+		},
+		{
+			"type": "artist",
+			"artist": "Roy Eldridge",
+			"songLink": "https://open.spotify.com/track/6EcG3gPFjYywxOc8lgB4fq?si=352d19226aaf45a6"
+		},
+		{
+			"type": "song",
+			"song": "Take The “A” Train",
+			"songLink": "https://open.spotify.com/track/63JQgZnT1yIrHgpDCq1KLG?si=d58fc785107b415a"
+		},
+		{
+			"type": "artist",
+			"artist": "Sister Rosetta Tharpe",
+			"songLink": "https://open.spotify.com/track/39tlVgh5FJG3ho3RHB7Yn1?si=b4e1b832d866453c"
+		},
+		{
+			"type": "song",
+			"song": "Baby Won’t You Please Come Home",
+			"songLink": "https://open.spotify.com/track/54vfItKqZYqpBW631OoZRs?si=ba45026bfdaa474e"
+		},
+		{
+			"type": "artist",
+			"artist": "George Gee",
+			"songLink": "https://zortmusic.bandcamp.com/track/stompin-at-the-savoy"
+		},
+		{
+			"type": "song",
+			"song": "One O’Clock Jump",
+			"songLink": "https://www.youtube.com/watch?v=mkbqQfk9dFw"
+		},
+		{
+			"type": "artist",
+			"artist": "Maxine Sullivan",
+			"songLink": "https://open.spotify.com/track/0oMbGKOQ81uUyQdVTNfqEE?si=74961b1304714602"
+		},
+		{
+			"type": "song",
+			"song": "Honeysuckle Rose",
+			"songLink": "https://open.spotify.com/track/16rC6JrsasyG7p3MjbEFgR?si=45455573560841d1"
+		},
+		{
+			"type": "artist",
+			"artist": "Brooks Prumo",
+			"songLink": "https://brooksprumoorchestra.bandcamp.com/track/pass-the-bounce"
+		},
+		{
+			"type": "song",
+			"song": "I Can’t Give you Anything But Love",
+			"songLink": "https://open.spotify.com/track/5AdRursK0T21JEBHcZ92Vh?si=52b84f781d9c419e"
+		},
+		{
+			"type": "artist",
+			"artist": "Stuff Smith",
+			"songLink": "https://open.spotify.com/track/7pX466uyFHec4PULfwtTip?si=839328f31f964caa"
+		},
+		{
+			"type": "song",
+			"song": "Sweet Lorraine",
+			"songLink": "https://open.spotify.com/track/50UcubUTJqMcYpOkv6CJi0?si=8c697012b4a743af"
+		},
+		{
+			"type": "artist",
+			"artist": "Solomon Douglas",
+			"songLink": "https://www.youtube.com/watch?v=wCfGB3dsJz4"
+		},
+		{
+			"type": "song",
+			"song": "My Baby Just Cares For Me",
+			"songLink": "https://open.spotify.com/track/5Lhjlnly9Ynhf52ojQS534?si=33552bfb9b0c4af1"
+		},
+		{
+			"type": "artist",
+			"artist": "Shirt Tail Stompers",
+			"songLink": "https://shirttailstompers.bandcamp.com/track/walkin-blues"
+		},
+		{
+			"type": "song",
+			"song": "Dedicated to You",
+			"songLink": "https://open.spotify.com/track/2jF5ZkKnxh4pnW4Gv1FQ4B?si=805df5ee06cd4264"
+		},
+		{
+			"type": "artist",
+			"artist": "Gene Krupa",
+			"songLink": "https://open.spotify.com/track/6XJtELbgPa61CP2DUbwfqP?si=7d7fb2395c98473d"
+		},
+		{
+			"type": "song",
+			"song": "Cheek to Cheek",
+			"songLink": "https://open.spotify.com/track/6qJbpvaU6MVjb3XxyHetVR?si=28bf162a0eee4c76"
+		},
+		{
+			"type": "artist",
+			"artist": "Sarah Vaughan",
+			"songLink": "https://open.spotify.com/track/3xAXSXOjOGs8Uk8Djp2BAw?si=0a0af88ef2844118"
+		},
+		{
+			"type": "song",
+			"song": "Let’s Fall In Love",
+			"songLink": "https://open.spotify.com/track/43s1v4qYSgDOL0bY67AeBo?si=204862bc5bce48d7"
+		},
+		{
+			"type": "artist",
+			"artist": "Oscar Peterson",
+			"songLink": "https://open.spotify.com/track/0DTpyXBrO3HAzfh9bnmK96?si=09c646fe832045c4"
+		},
+		{
+			"type": "song",
+			"song": "Kansas City (Blues)",
+			"songLink": "https://open.spotify.com/track/5hLkNrowhydDhLoqMxHuNt?si=b3ca19cdd9fc47a0"
+		},
+		{
+			"type": "artist",
+			"artist": "Josh Roberts",
+			"songLink": "https://joshrobertsmusic.bandcamp.com/track/clap-hands-here-comes-charlie"
+		},
+		{
+			"type": "song",
+			"song": "Route 66",
+			"songLink": "https://open.spotify.com/track/2VIBLA3G1ugwzK3GWXF0pr?si=a6559fafe656495a"
+		},
+		{
+			"type": "artist",
+			"artist": "Aretha Franklin",
+			"songLink": "https://open.spotify.com/track/0K6w2tpFDfunykh0DO8HCX?si=47b160080f914efd"
+		},
+		{
+			"type": "song",
+			"song": "Tea For Two",
+			"songLink": "https://open.spotify.com/track/7mAgIoE0nnRdgvz8wTWeEb?si=d4b639956e2447d7"
+		},
+		{
+			"type": "artist",
+			"artist": "Jonathan Doyle",
+			"songLink": "https://jonathandoyle.bandcamp.com/track/dodging-rabbits-2"
+		},
+		{
+			"type": "song",
+			"song": "Sing Sing Sing",
+			"songLink": "https://jonathandoyle.bandcamp.com/track/sing-sing-sing"
+		},
+		{
+			"type": "artist",
+			"artist": "Louis Armstrong",
+			"songLink": "https://open.spotify.com/track/2PZw5loo9EE5LfJmLrO9Wc?si=70cb84c3585c4326"
+		},
+		{
+			"type": "song",
+			"song": "Is You Is, Or Is You Ain’t My Baby",
+			"songLink": "https://open.spotify.com/track/0M0r27mFU32BoLGliqLMm8?si=51c708fa1cd94f21"
+		},
+		{
+			"type": "artist",
+			"artist": "Hot Sugar Band",
+			"songLink": "https://hotsugarband.bandcamp.com/track/sermonette"
+		},
+		{
+			"type": "song",
+			"song": "Easy Does It",
+			"songLink": "https://open.spotify.com/track/25aN8wqsZCBUcSwIE1eIta?si=ad28cc0e6ed34e75"
+		},
+		{
+			"type": "artist",
+			"artist": "Artie Shaw",
+			"songLink": "https://open.spotify.com/track/533bCIPRpMsdGgresO2CbO?si=3ebabe080e66412e"
+		},
+		{
+			"type": "song",
+			"song": "This Can’t Be Love",
+			"songLink": "https://open.spotify.com/track/7d3AiNs1Ts7a9n1yBcuqHU?si=394ac9725e924964"
+		},
+		{
+			"type": "artist",
+			"artist": "Lester's Blues",
+			"songLink": "https://lestersblues.bandcamp.com/track/dickies-dream"
+		},
+		{
+			"type": "song",
+			"song": "Our Love Is Here To Stay",
+			"songLink": "https://open.spotify.com/track/3WBOCI8zM5SKfTXq41wM4e?si=86a883dc188b48fe"
+		},
+		{
+			"type": "artist",
+			"artist": "Erskine Hawkins",
+			"songLink": "https://open.spotify.com/track/3woUaQnIQnAvWiGbw3eUL1?si=e7013de1808b4881"
+		},
+		{
+			"type": "song",
+			"song": "All of Me",
+			"songLink": "https://open.spotify.com/track/3zdcOy5eNqapv2bSJgtuzc?si=efa784a6f7d542bd"
+		},
+		{
+			"type": "artist",
+			"artist": "Coleman Hawkins",
+			"songLink": "https://open.spotify.com/track/0zcxmnFslMAuZvfdGJMM6O?si=b7fb702e20a94bba"
+		},
+		{
+			"type": "song",
+			"song": "Undecided",
+			"songLink": "https://open.spotify.com/track/1nXGcNGVc7KNQO9NhKmRyN?si=2c4ba9e3f23b40d1"
+		},
+		{
+			"type": "artist",
+			"artist": "Gentlemen & Gangsters",
+			"songLink": "https://gentlemenandgangsters.bandcamp.com/track/sister-kate"
+		},
+		{
+			"type": "song",
+			"song": "D’Lovely",
+			"songLink": "https://open.spotify.com/track/5SyAXpY2mdhjZI2qIK7zPR?si=abfb73bfc98a4cf9"
+		},
+		{
+			"type": "artist",
+			"artist": "Eyal Vilner",
+			"songLink": "https://open.spotify.com/track/72gtuacsLkjVzkv8coqCco?si=33494bf37c114246"
+		},
+		{
+			"type": "song",
+			"song": "Sweet Georgia Brown",
+			"songLink": "https://open.spotify.com/track/1wocDtvP41DvIBiSf7RVzT?si=7dd4c239578e4912"
+		},
+		{
+			"type": "artist",
+			"artist": "Lionel Hampton",
+			"songLink": "https://open.spotify.com/track/3phqBoUODyeNc90WUCFUEJ?si=adeebc71e1bd43f6"
+		},
+		{
+			"type": "song",
+			"song": "Makin’ Whoopie",
+			"songLink": "https://gordonwebstermusic.bandcamp.com/track/makin-whoopie"
+		},
+		{
+			"type": "artist",
+			"artist": "Joe Smith",
+			"songLink": "https://thespicypickles.bandcamp.com/track/the-baltiquerque-stomp"
+		},
+		{
+			"type": "song",
+			"song": "Bei Mir Bist Du Schoen",
+			"songLink": "https://open.spotify.com/track/6guuPCkB2hyZ9CfIahNOm0?si=6d96d745ed744c61"
+		},
+		{
+			"type": "artist",
+			"artist": "Jonathan Ng",
+			"songLink": "https://jonathanngmusic.bandcamp.com/track/maelstrom"
+		},
+		{
+			"type": "song",
+			"song": "It’s Only a Paper Moon",
+			"songLink": "https://open.spotify.com/track/2UoqI4i9SKlpGN3QDszbYT?si=2a6f3f420427414c"
+		},
+		{
+			"type": "artist",
+			"artist": "Catherine Russell",
+			"songLink": "https://open.spotify.com/track/5RrvMkML4xPRyy0MI9Jt1U?si=b3d5032862234cb5"
+		},
+		{
+			"type": "song",
+			"song": "Satin Doll",
+			"songLink": "https://open.spotify.com/track/4pBk0rIzVgAFvVxnM9WQoH?si=f198c61b330246d8"
+		}
+	]
+}
