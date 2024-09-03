@@ -94,6 +94,22 @@ client.on('interactionCreate', async interaction => {
             cache.writeJazzCombo(date, combo);
             await interaction.reply(combo);
         }
+    } else if (commandName === 'AdminMusicMonday') {
+        const channel = await client.channels.fetch(musicChannelId);
+
+        const res = musicTopic();
+        
+        let topic = res.type === 'artist' ? res.artist : res.song;
+        let message = res.type === 'artist' ? `What's your favourite song from ${topic}?` : `What's your favourite version of ${topic}?`;
+        message = message + ` Mine is ${res.songLink}`;
+        
+        const thread = await channel.threads.create({
+            name: `Music Share Monday: ${topic}`,
+            autoArchiveDuration: ThreadAutoArchiveDuration.OneWeek,
+            reason: "Learn and Share New Music"
+        }).catch(console.error);
+
+        await thread.send(message);
     }
 })
 
