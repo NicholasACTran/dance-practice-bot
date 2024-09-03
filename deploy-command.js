@@ -12,7 +12,7 @@ const guildId = process.env.GUILD;
 const commands = [
     new SlashCommandBuilder().setName('dailyjazzmove').setDescription('Gives you a daily jazz move to practice!'),
     new SlashCommandBuilder().setName('jazzcombo').setDescription('Gives you a daily jazz combo to practice!'),
-    new SlashCommandBuilder.setName('AdminMusicMonday').setDescription('ForceMusicMonday')
+    new SlashCommandBuilder().setName('adminmusicmonday').setDescription('ForceMusicMonday')
 ].map(command => command.toJSON());
 
 const rest = new REST({ version: '10' }).setToken(token);

@@ -94,7 +94,7 @@ client.on('interactionCreate', async interaction => {
             cache.writeJazzCombo(date, combo);
             await interaction.reply(combo);
         }
-    } else if (commandName === 'AdminMusicMonday') {
+    } else if (commandName === 'adminmusicmonday') {
         const channel = await client.channels.fetch(musicChannelId);
 
         const res = musicTopic();
